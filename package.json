@@ -1,6 +1,6 @@
 {
   "name": "rest-express",
-  "homepage": "https://MananSharma03.github.io/newP1",
+  "homepage": "https://MananSharma03.github.io/PortFolio",
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
@@ -11,7 +11,7 @@
     "check": "tsc",
     "db:push": "drizzle-kit push",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-paeg"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
@@ -109,9 +109,4 @@
   "keywords": [],
   "author": "",
   "description": ""
-<<<<<<< HEAD
 }
-=======
-}
-
->>>>>>> f5dcfc87204af5c2903b108543adb5c9c7f55e6c
